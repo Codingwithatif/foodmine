@@ -23,7 +23,7 @@ export class CartPageComponent {
     })
   }
 
-
+//remove item
   removeFromCart(cartItem:CartItem){
 this.cartService.removeFromCart(cartItem.food.id)
   }
