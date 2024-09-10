@@ -1,6 +1,13 @@
 # Frontend
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.1.4.
+inventory screen
+![inventory screen](https://github.com/user-attachments/assets/40c89c02-bba8-46a4-b63b-e7f4fa1614cb)
+
+cart display
+![cart](https://github.com/user-attachments/assets/2246926f-277a-482b-bf88-e265c1463f81)
+
+
 
 ## Development server
 
